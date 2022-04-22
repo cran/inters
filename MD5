@@ -1,0 +1,16 @@
+0109f23d841ce36a04861088e067ecd9 *DESCRIPTION
+c27ac9a8f13007ac32169d552b06a90b *NAMESPACE
+7eb775865b38967d0d99020da5a8d21a *R/data.R
+31534ec84c02d826c30a19b113f0b93a *R/lasso_interactions.R
+1961639f6f4f7f9efffa91b624b3d060 *build/partial.rdb
+2312d31c45f5d225cbce994d4949895c *build/vignette.rds
+16eb02c607a5e34df7026b2a938ee9cd *data/primary.RData
+c94bdc03025df5541dc96d5e2cc10db9 *data/remit.RData
+2670f87fb7b73173732e2d079ba97d20 *inst/doc/post-double-selection.R
+73005f69a8a8eb00332d27a6a93780fd *inst/doc/post-double-selection.Rmd
+df96b793f7d55785c19b4dff95bc94d6 *inst/doc/post-double-selection.html
+e55a622dcdb739942b480a73fc277e71 *man/post_ds_interaction.Rd
+ac6fb7b2087d010e697e8b44bcd46737 *man/primary.Rd
+f3d357b30807eb4e1c3e245ae5127c00 *man/remit.Rd
+6f276ce28ad798f1184141eef9402e03 *vignettes/inters.bib
+73005f69a8a8eb00332d27a6a93780fd *vignettes/post-double-selection.Rmd
